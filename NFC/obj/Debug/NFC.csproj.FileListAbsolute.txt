@@ -1,0 +1,11 @@
+c:\users\black\documents\visual studio 2013\Projects\NFC\NFC\bin\Debug\NFC.exe.config
+C:\Users\black\documents\visual studio 2013\Projects\NFC\NFC\bin\Debug\NFC.exe
+C:\Users\black\documents\visual studio 2013\Projects\NFC\NFC\bin\Debug\NFC.pdb
+C:\Users\black\documents\visual studio 2013\Projects\NFC\NFC\obj\Debug\NFC.csprojResolveAssemblyReference.cache
+C:\Users\black\documents\visual studio 2013\Projects\NFC\NFC\obj\Debug\NFC.Properties.Resources.resources
+C:\Users\black\documents\visual studio 2013\Projects\NFC\NFC\obj\Debug\NFC.csproj.GenerateResource.Cache
+C:\Users\black\documents\visual studio 2013\Projects\NFC\NFC\obj\Debug\NFC.exe.licenses
+C:\Users\black\documents\visual studio 2013\Projects\NFC\NFC\obj\Debug\NFC.exe
+C:\Users\black\documents\visual studio 2013\Projects\NFC\NFC\obj\Debug\NFC.pdb
+C:\Users\black\documents\visual studio 2013\Projects\NFC\NFC\obj\Debug\NFC.WeatId.resources
+C:\Users\black\Documents\Visual Studio 2013\Projects\NFC\NFC\obj\Debug\NFC.Attendance.resources
